@@ -1,38 +1,32 @@
-![photo_2022-01-03_04-37-39 - Copy](https://user-images.githubusercontent.com/87700009/148641946-111e524c-0d8f-44c4-a981-ecd703e7840d.jpg)
-![photo_2022-01-03_04-11-58](https://user-images.githubusercontent.com/87700009/148641949-d7cdbd32-fb17-4b57-ba09-6c71d178d4f3.jpg)
-![photo_2022-01-03_04-39-36 - Copy](https://user-images.githubusercontent.com/87700009/148641952-08599d21-c3d1-414c-8c64-bb373350974e.jpg)
-![photo_2022-01-03_04-40-48 - Copy](https://user-images.githubusercontent.com/87700009/148641956-023757cb-bbf1-4b70-9b2d-1c088ba2e801.jpg)
-![photo_2021-11-06_01-38-31](https://user-images.githubusercontent.com/87700009/140607545-b8576cd7-7e43-4f74-bf7c-fefae124c749.jpg)
 
-{DEVELOPER}By = [LEGEND-LX](http://t.me/Legendl_Mr_Hacker)
+
+{DEVELOPER}By = [SATYA-OP](http://t.me/Its_LegendBoy)
 
 
 ✞︎tß Pythonẞø†
 
-⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
-r
-ITS ALL CREDITS GOES TO LEGENDBOY. 
-USERNAME = ⚜[LEGEND-OS](https://github.com/LEGEND-OS)
+⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Satyaẞø✞︎⚡
+
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-LEGENDLX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SATYA-OP/SATYABOT)
 __________COMING_SOON_______
-<p><a href=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://github.com/SATYA-OP/SATYABOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
 _______________String_Session__________________________
 
-[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
+[![String]( https://telegra.ph/file/383b3fa18f0ee7a384b10.jpg)](https://replit.com/@SATYA-OP/COMINGT-SOON#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SATYA-OP/COMING-SOON#main.py) 
 
-Python_Session__________________________________________
+Satya_Session__________________________________________
 - Click On Generate String
 - Then Click On Green Run Button.
 - Wait for a while then fill the details.
  - String will be saved in your Saved Message.
 TO HOST PYTHON LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 
-⚡ Python𝕭øt ⚡
+⚡ Satya𝕭øt ⚡
 
 Do U Face Any Problem Contact me Through Telegram
 
@@ -50,9 +44,10 @@ String
 
 Contact Me
 
-• LICENSE •[license](https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/blob/master/LICENSE)
+• LICENSE •[license](https://github.com/SATYA-OP/SATYABOT/blob/master/LICENSE)
 • 💡 CREDITS 💞 •
-[⚜LEGEND-OS](https://github.com/LEGEND-OS)
+[⚜SATYA-OP](https://github.com/SATYA-OP![photo_2022-04-25_12-03-04](https://user-images.githubusercontent.com/104726886/166154278-b302c295-aee6-4595-b41f-a86c5cc3778b.jpg)
+)
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
