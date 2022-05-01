@@ -4,7 +4,7 @@
 {DEVELOPER}By = [SATYA-OP](http://t.me/Its_LegendBoy)
 
 
-✞︎tß Pythonẞø†
+✞︎tß SatyaUserẞø†
 
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Satyaẞø✞︎⚡
 
