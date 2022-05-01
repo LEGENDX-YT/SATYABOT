@@ -1,1 +1,1 @@
-worker: bash Pro
+worker: bash Satya
