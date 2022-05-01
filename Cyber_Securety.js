@@ -1,5 +1,5 @@
 input userbot.get
-input legendBot ,
+input satyaBot ,
   await:sendhacker_(09876565657),send_none)()*
             +legend+
                none<ok"legendhacker"({os}),h/n"
