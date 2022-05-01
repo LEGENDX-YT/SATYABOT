@@ -47,9 +47,6 @@ Contact Me
 
 • LICENSE •[license](https://github.com/SATYA-OP/SATYABOT/blob/master/LICENSE)
 • 💡 CREDITS 💞 •
-[⚜SATYA-OP](https://github.com/SATYA-OP![photo_2022-04-25_12-03-04](https://user-images.githubusercontent.com/104726886/166154278-b302c295-aee6-4595-b41f-a86c5cc3778b.jpg)
-)
-![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
-![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
-![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
-![image](https://user-images.githubusercontent.com/87700009/133560910-6117ba9e-9165-4fd1-8fb2-4d1ecca3c20e.png)
+[⚜SATYA-OP](https://github.com/SATYA-OP
+ 
+ ![photo_2022-04-25_12-03-04](https://user-images.githubusercontent.com/104726886/166154278-b302c295-aee6-4595-b41f-a86c5cc3778b.jpg)![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)![image](https://user-images.githubusercontent.com/87700009/133560910-6117ba9e-9165-4fd1-8fb2-4d1ecca3c20e.png)
