@@ -1,8 +1,6 @@
 #Pro Userbot Start Clonning ⚡♥️
 #the satya userbot of legendbot new brend is op
 
-"""legendbot=(int(event:await-op))
-          satya-userbot cd-
 RUN git clone https://github.com/SATYA-OP/SATYAUSERBOT.git /root/userbot
 
 #working directory 
