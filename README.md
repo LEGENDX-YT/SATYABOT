@@ -11,6 +11,7 @@
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SATYA-OP/SATYABOT)
+
 __________COMING_SOON_______
 <p><a href=https://github.com/SATYA-OP/SATYABOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
