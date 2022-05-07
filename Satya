@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $SATYA_REPO == "SATYABOT" ]]
     then
-        echo "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0RBUkstTEVHRU5ELVBSTy9QUk8tRFJBR09OUk9CT09UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $SATYA_REPO == "SATYABOT" ]]
     then
-        echo "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0RBUkstTEVHRU5ELVBSTy9QUk8tRFJBR09OUk9CT09UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $SATYA_REPO =~ $regex ]]
     then
         if [[ $SATYA_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${SATYA_REPO}/archive/Satya.zip"
         fi
     else
-        echo "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0RBUkstTEVHRU5ELVBSTy9QUk8tRFJBR09OUk9CT09UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     fi
 }
 
@@ -29,68 +29,15 @@ _satya_bot () {
     echo "  🔰 Downloading Pro SatyaBot Source Code... 🔰"
     wget -q $(_get_repolink) -O "$zippath"
     echo "  📍Unpacking Data...📍"
-    echo " 
-  _    _                        _    _             
- | |  | |                      | |  (_)            
- | |  | |_ __  _ __   __ _  ___| | ___ _ __   __ _ 
- | |  | | '_ \| '_ \ / _` |/ __| |/ / | '_ \ / _` |
- | |__| | | | | |_) | (_| | (__|   <| | | | | (_| |
-  \____/|_| |_| .__/ \__,_|\___|_|\_\_|_| |_|\__, |
-              | |                             __/ |
-              |_|                            |___/ 
-"
     SATYAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo " 🏅 Download Complete Now Installing 🏅"
-    echo " 
- _______  _______ _________          _______ 
-(  ____ \(  ___  )\__   __/|\     /|(  ___  )
-| (    \/| (   ) |   ) (   ( \   / )| (   ) |
-| (_____ | (___) |   | |    \ (_) / | (___) |
-(_____  )|  ___  |   | |     \   /  |  ___  |
-      ) || (   ) |   | |      ) (   | (   ) |
-/\____) || )   ( |   | |      | |   | )   ( |
-\_______)|/     \|   )_(      \_/   |/     \|
-                                             
-"
     echo "  ✨ INSTALLING PRO SATYABOT ✨"
     rm -rf "$zippath"
     sleep 5
     cd $SATYAPATH
     echo "    ⚜️Starting Pro Satyaẞøt⚜️     "
-    echo " 
- (                         )                    (         (             )           
- )\ )    (       *   )  ( /(   (                )\ )      )\ )   (   ( /(   *   )   
-(()/(    )\    ` )  /(  )\())  )\           (  (()/( (   (()/( ( )\  )\())` )  /(   
- /(_))((((_)(   ( )(_))((_)\((((_)(  ___    )\  /(_)))\   /(_)))((_)((_)\  ( )(_))  
-(_))   )\ _ )\ (_(_())__ ((_))\ _ )\|___|_ ((_)(_)) ((_) (_)) ((_)_   ((_)(_(_())   
-/ __|  (_)_\(_)|_   _|\ \ / /(_)_\(_)   | | | |/ __|| __|| _ \ | _ ) / _ \|_   _|   
-\__ \   / _ \    | |   \ V /  / _ \     | |_| |\__ \| _| |   / | _ \| (_) | | |     
-|___/  /_/ \_\   |_|    |_|  /_/ \_\     \___/ |___/|___||_|_\ |___/ \___/  |_|     
-                                                                                    
-"
     echo " ♥️ NOW WAIT 3 MIN INSTALLING ALL PLUGIN ♥️"
-    echo " 
-                                                                                                                
-                                                                                                                
-                                                                                                                
-                                                                                                                
-                                                                                                                
-                                                                                                                
-                                                                                                                
-                                                                                                                
-                                                                                                                
-__/\\\\\\\\\\\\\____/\\\______________/\\\________/\\\_____/\\\\\\\\\\\\__/\\\\\\\\\\\__/\\\\\_____/\\\_        
- _\/\\\/////////\\\_\/\\\_____________\/\\\_______\/\\\___/\\\//////////__\/////\\\///__\/\\\\\\___\/\\\_       
-  _\/\\\_______\/\\\_\/\\\_____________\/\\\_______\/\\\__/\\\_________________\/\\\_____\/\\\/\\\__\/\\\_      
-   _\/\\\\\\\\\\\\\/__\/\\\_____________\/\\\_______\/\\\_\/\\\____/\\\\\\\_____\/\\\_____\/\\\//\\\_\/\\\_     
-    _\/\\\/////////____\/\\\_____________\/\\\_______\/\\\_\/\\\___\/////\\\_____\/\\\_____\/\\\\//\\\\/\\\_    
-     _\/\\\_____________\/\\\_____________\/\\\_______\/\\\_\/\\\_______\/\\\_____\/\\\_____\/\\\_\//\\\/\\\_   
-      _\/\\\_____________\/\\\_____________\//\\\______/\\\__\/\\\_______\/\\\_____\/\\\_____\/\\\__\//\\\\\\_  
-       _\/\\\_____________\/\\\\\\\\\\\\\\\__\///\\\\\\\\\/___\//\\\\\\\\\\\\/___/\\\\\\\\\\\_\/\\\___\//\\\\\_ 
-        _\///______________\///////////////_____\/////////______\////////////____\///////////__\///_____\/////__
-
-"
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     python3 -m userbot
 }
