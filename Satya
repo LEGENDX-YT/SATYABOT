@@ -15,7 +15,7 @@ _get_repolink () {
         then
             echo "${SATYA_REPO}/archive/${SATYA_REPO_BRANCH}.zip"
         else
-            echo "${SATYA_REPO}/archive/master.zip"
+            echo "${SATYA_REPO}/archive/Satya.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1BST0JPWS1PUC9QUk8tVVNFUkJPVC9hcmNoaXZlL1Byby56aXA=" | base64 -d
