@@ -28,26 +28,6 @@
       "value": "",
       "required": false
     },
-    "ABUSE": {
-      "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
-      "required" :true
-    },
-    "EXTRA_PLUGIN": {
-      "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
-      "value": "",
-      "required" :true
-    },
-    "SPAM": {
-      "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
-      "value": "",
-      "required" :true
-    },
-    "ASSISTANT": {
-      "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
-      "value": "",
-      "required" :true
-    },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@soon)",
       "value": "@LegendBot_Pros",
@@ -140,7 +120,7 @@
       "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "PRO_STRING": {
+    "SATYA_STRING": {
       "description": "Get this value by running https://replit.com/@soon#main.py ",
       "value": ""
     },
