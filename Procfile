@@ -1,1 +1,1 @@
-worker: bash Satya
+worker: bash SATYABOT
