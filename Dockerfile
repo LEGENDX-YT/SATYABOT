@@ -1,7 +1,7 @@
 #Pro Userbot Start Clonning ⚡♥️
 #the satya userbot of legendbot new brend is op
 
-FROM git clone https://github.com/SATYA-OP/SATYAUSERBOT.git
+FROM SATYA-OP/SATYAUSERBOT.git root/userbot
 
 RUN git clone https://github.com/SATYA-OP/SATYAUSERBOT.git /root/userbot
 
