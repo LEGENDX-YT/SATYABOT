@@ -6,7 +6,7 @@
     "telegram",
     "userbot",
     "plugin",
-    "satya",
+    "satyabot",
     "modular",
     "productivity"
   ],
@@ -40,7 +40,7 @@
     },
     "BOY_OR_GIRL": {
       "description": "Set Boy Or Girl. It Will Set Boy Like Boy Bot Else Set Like Girl Bot And Its Design",
-      "value": "Boy",
+      "value": "Op-Boys",
       "required": false
     },
     "AWAKE_PIC": {
