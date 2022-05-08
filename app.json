@@ -1,18 +1,18 @@
 {
-  "name": "Tha-SatyaBot",
+  "name": "Pro-LegendBot",
   "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "satyabot",
+    "pro",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SATYA-OP/SATYABOT/",
-  "website": "https://github.com/SATYA-OP/SATYABOT/",
-  "success_url": "https://t.me/Its_LegendBoy",
+  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
+  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
+  "success_url": "https://t.me/Pro_LegendBots",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,13 +20,33 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『⚡- SaTyaẞοT -⚡ 』",
+      "value": "『⚡- Lêɠêɳ̃dẞογ -⚡ 』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
       "value": "",
       "required": false
+    },
+    "ABUSE": {
+      "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
+      "value": "",
+      "required" :true
+    },
+    "EXTRA_PLUGIN": {
+      "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
+      "value": "",
+      "required" :true
+    },
+    "SPAM": {
+      "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
+      "value": "",
+      "required" :true
+    },
+    "ASSISTANT": {
+      "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
+      "value": "",
+      "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
@@ -109,7 +129,7 @@
     },
     "HANDLER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": ".",
+      "value": "",
       "required": false 
       },
     "API_HASH": {
@@ -120,8 +140,8 @@
       "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "SATYA_STRING": {
-      "description": "Get this value by running  ",
+    "PRO_STRING": {
+      "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
