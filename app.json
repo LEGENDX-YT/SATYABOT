@@ -1,18 +1,18 @@
 {
-  "name": "Pro-LegendBot",
-  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@Pro_UserBoy). Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "tha satyabot",
+  "description": "Tнє Smoothest And Fastest Bot Made By Pro Legend (@its_legendboy). Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/2bc143a15d95845b52e17.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "pro",
+    "satyabot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "website": "https://github.com/PROBOY-OP/PRO-LEGENDBOT/",
-  "success_url": "https://t.me/Pro_LegendBots",
+  "repository": "https://github.com/SATYA-OP/SATYABOT/",
+  "website": "https://github.com/SATYA-OP/SATYABOT/",
+  "success_url": "https://t.me/Its_LegendBoy",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『⚡- Lêɠêɳ̃dẞογ -⚡ 』",
+      "value": "『⚡- satyaẞογ -⚡ 』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -30,32 +30,32 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF. It Will Activate Abuse Plugin According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF. It Will Activate Extra Plugin AccordingTo Ur Value Fill ",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF. It Will Activate Spam Assistant According To Ur Value Fill",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF. It Will Activate Ur Assistant From Bot Father Start And See",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Your Group Username. By Default It Is (@LegendBot_Pros)",
-      "value": "@LegendBot_Pros",
+      "value": "@",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Your Channel Username",
-      "value": "@Pro_LegendBots",
+      "value": "@",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -140,8 +140,8 @@
       "description": "Paste Group Id Which U Get From @missrose_bot",
       "value": ""
     }, 
-    "PRO_STRING": {
-      "description": "Get this value by running https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py ",
+    "SATYA_STRING": {
+      "description": "Get this value by running https://replit.com/ ",
       "value": ""
     },
     "HEROKU_API_KEY": {
