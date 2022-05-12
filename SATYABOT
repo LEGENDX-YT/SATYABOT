@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $SATYA_REPO == "SATYABOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9EUkFHT05VU0VSQk9ULVBSTy9hcmNoaOSlL21haW4uemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9EUkFHT05VU0VSQk9ULVBSTy9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $SATYA_REPO == "SATYABOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9EUkFHT05VU0VSQk9ULVBSTy9hcmNoaOSlL21haW4uemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9EUkFHT05VU0VSQk9ULVBSTy9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $SATYA_REPO =~ $regex ]]
     then
         if [[ $SATYA_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${SATYA_REPO}/archive/SATYA.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9EUkFHT05VU0VSQk9ULVBSTy9hcmNoaOSlL21haW4uemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9EUkFHT05VU0VSQk9ULVBSTy9hcmNoaXZlL21haW4uemlw" | base64 -d
     fi
 }
 
