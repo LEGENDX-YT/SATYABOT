@@ -16,7 +16,7 @@
 
 
 __________COMING_SOON_______
-<p><a href=https://github.com/SATYA-OP/SATYABOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+[![Deploy](https://www.railway.app/deploy/button.svg)](https://railway.app/deploy?template=https://github.com/SATYA-OP/SATYABOT)
 
 
 _______________String_Session__________________________
